@@ -1,0 +1,61 @@
+body{
+    background-color: bisque;
+}
+#fo{
+    height: 75vh;
+    width: 30vw;
+    display: flex;
+    flex-direction: column;
+}
+#vkekcsik{
+    height: 10%;
+    width: 100%;
+    background-color: aqua;
+}
+#narpirlil{
+    flex-direction: row;
+    display: flex;
+    width: 100%;
+    height: 80%;
+}
+#narancs{
+    background-color: orange;
+    width: 10%;
+    height: 100%;
+    margin-right: 5%;
+}
+
+#piros{
+    background-color: red;
+    width: 70%;
+    height: 100%;
+    margin-right: 5%;
+    align-content: center;
+}
+
+#lila{
+    background-color: purple;
+    width: 10%;
+    height: 100%;
+}
+#skekcsik{
+    height: 10%;
+    width: 100%;
+    background-color: blue;
+}
+#fekete{
+    position: absolute;
+    background-color: black;
+    height: 4%;
+    width: 2%;
+    margin-left: 14.5%;
+    margin-top: 14%;
+}
+#fekete2{
+    background-color: black;
+    height: 10%;
+    width: 15%;  
+    margin: auto;
+}
+
+/* két megoldás a feketére */

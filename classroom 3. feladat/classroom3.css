@@ -1,0 +1,30 @@
+#lilacsik{
+background-color: purple;
+height: 7.5vh;
+display: flex;
+flex-direction: row;
+gap: 1vh;
+} 
+.kek{
+background-color: aqua;
+height: 60%;
+width: 15vh;
+margin-top: 1.5vh;
+margin-left: 1.5vh;
+}
+
+#sarzol{
+    display: flex;
+    flex-direction: row;
+}
+
+#sarga{
+   flex-grow: 2; 
+   background-color: yellow;
+   height: 91.5vh;
+}
+#zold{
+    flex-grow: 1;
+    background-color: green;
+    height: 91.5vh;
+}
